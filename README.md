@@ -15,7 +15,7 @@ Imagine having your own personal data science career coach. This LLM agent has a
 
 <img src="images/data_size.png" width="600" height="600">
 <img src="images/logo.png" width="558" height="229">
-<img src="images/text.png" width="1780" height="1284">
+<img src="images/text.png" width="1000" height="722">
 
 
 # Description of the Data
