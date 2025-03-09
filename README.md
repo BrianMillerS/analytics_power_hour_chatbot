@@ -8,7 +8,7 @@
 - [Methods Overview](#methods-overview)
 - [Project Summary](#project-summary)
 
-# Project Takeaway
+# Project Takeaway  
 Imagine having your own personal data science career coach. This LLM agent has access to all data from a podcast called the 
 <a href="https://archive.ics.uci.edu/dataset/186/wine+quality" target="_blank">Analytics Power Hour </a> . It has listend to the most recent 250 episodes, each with expert guests. From
 - 
