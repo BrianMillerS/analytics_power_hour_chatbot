@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/agent_image.jpg" width="450" height="450">
 </p>
-<h1 align="center">Data Science Career Coach LLM Agent</h1>
+<h1 align="center">Data Science Career Coach: LLM Agent</h1>
 
 # Table of contents
 - [Project Takeaway](#Project-Takeaway)
@@ -9,7 +9,8 @@
 - [Project Summary](#project-summary)
 
 # Project Takeaway
-Imagine having your own personal data science career coach. This LLM agent has access to all data from a podcast called the <a href="https://archive.ics.uci.edu/dataset/186/wine+quality" target="_blank">Analytics Power Hour </a>. It has listend to the most recent 250 episodes, each with expert guests. From
+Imagine having your own personal data science career coach. This LLM agent has access to all data from a podcast called the 
+<a href="https://archive.ics.uci.edu/dataset/186/wine+quality" target="_blank">Analytics Power Hour </a> . It has listend to the most recent 250 episodes, each with expert guests. From
 - 
 - 
 
