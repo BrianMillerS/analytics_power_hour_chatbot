@@ -13,10 +13,10 @@ Imagine having your own personal data science career coach. This LLM agent has a
 - 
 - 
 
-<img src="images/data_size.png" width="500" height="500">
+<img src="images/data_size.png" width="600" height="600">
 <img src="images/logo.png" width="558" height="229">
-<img src="images/transcript_example.png" width="500" height="359">
-<img src="images/webpage_example.png" width="500" height="359">
+<img src="images/transcript_example.png" width="969" height="696">
+
 
 # Description of the Data
 The data was downloaded from <a href="https://archive.ics.uci.edu/dataset/186/wine+quality" target="_blank">UC Irvine’s curated repository</a> of datasets for machine learning. The data consisted of a single table with 1600 rows, each containing data on a specific portuguese red wine variant. Along with the wine’s quality score (the median score from three professional wine tasters) the table also had eleven other columns with measured physicochemical properties.
