@@ -1,4 +1,4 @@
-<img src="images/agent_image.jpg" width="400" height="400">>
+<img src="images/agent_image.jpg" width="450" height="450">
 <h1 align="center">Data Science Career Coach LLM Agent</h1>
 
 # Table of contents
