@@ -1,4 +1,7 @@
 """
+Data Scraping and Cleaning Script
+================================
+
 Description:
     This script scrapes all podcast transcripts from the Analytics Power Hour podcast website
     by automating a web browser session, parsing the page content, and storing the
